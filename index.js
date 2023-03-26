@@ -16,7 +16,7 @@ import('random').then(randomModule => {
     const y = random.int(0, 6);
   
     const DATE = moment()
-      .subtract(2, 'y')
+      .subtract(1, 'y')
       .add(x, 'w')
       .add(y, 'd')
       .format();
