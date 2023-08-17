@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/fayizIT/github-bot#readme",
   "dependencies": {
-    "file": "^0.2.2",
-    "json": "^11.0.0",
     "jsonfile": "^6.1.0",
     "moment": "^2.29.4",
     "random": "^4.1.0",
