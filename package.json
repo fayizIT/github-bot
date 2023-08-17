@@ -1,0 +1,25 @@
+{
+  "name": "gitbot",
+  "version": "1.0.0",
+  "description": "Do you want to be the cool kid at the school ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayizIT/github-bot.git"
+  },
+  "author": "fayiz CJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayizIT/github-bot/issues"
+  },
+  "homepage": "https://github.com/fayizIT/github-bot#readme",
+  "dependencies": {
+    "file": "^0.2.2",
+    "json": "^11.0.0",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4"
+  }
+}
